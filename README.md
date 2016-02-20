@@ -35,7 +35,7 @@ Best Tutorials for Developers
 
 # Request Tutorials
 Please contact us for request :
-  - Gmail : devcastid@gmail.com
+  - Gmail : devcast.id@gmail.com
 
 # Our Home Page
 https://devcast.id
